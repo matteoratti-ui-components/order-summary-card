@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://www.frontendmentor.io/solutions/solution-for-order-summary-component-IdxwbhpL7)
+- Live Site URL: (https://matteoratti-ui-components.github.io/order-summary-card/)
 
 ## My process
 
